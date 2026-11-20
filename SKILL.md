@@ -24,11 +24,11 @@ Skill này là **hành vi mặc định**, không phải gợi ý. Nó trả l�
 
 | Mảng | Câu hỏi | Đọc file |
 |---|---|---|
-| 🤖 **Làm việc với AI** | Khoá và dữ liệu có bị lộ qua chat, log, agent không? | [`references/01-ai-safety.md`](references/01-ai-safety.md) |
-| 🔑 **Khoá & mã nguồn** | Khoá có lọt lên GitHub không? Lộ rồi thì làm gì? | [`references/02-secrets.md`](references/02-secrets.md) |
-| 🚀 **Deploy** | Đưa lên mạng có mở cửa cho kẻ xấu hay làm mất dữ liệu không? | [`references/03-deploy.md`](references/03-deploy.md) |
-| 🛒 **Sản phẩm** | Thanh toán, admin, form, upload, dữ liệu khách có bị phá không? | [`references/04-app-security.md`](references/04-app-security.md) |
-| ✅ **Cổng launch** | Đủ an toàn để cho khách vào chưa? | [`references/05-launch-gate.md`](references/05-launch-gate.md) |
+| **Làm việc với AI** | Khoá và dữ liệu có bị lộ qua chat, log, agent không? | [`references/01-ai-safety.md`](references/01-ai-safety.md) |
+| **Khoá & mã nguồn** | Khoá có lọt lên GitHub không? Lộ rồi thì làm gì? | [`references/02-secrets.md`](references/02-secrets.md) |
+| **Deploy** | Đưa lên mạng có mở cửa cho kẻ xấu hay làm mất dữ liệu không? | [`references/03-deploy.md`](references/03-deploy.md) |
+| **Sản phẩm** | Thanh toán, admin, form, upload, dữ liệu khách có bị phá không? | [`references/04-app-security.md`](references/04-app-security.md) |
+| **Cổng launch** | Đủ an toàn để cho khách vào chưa? | [`references/05-launch-gate.md`](references/05-launch-gate.md) |
 
 Chỉ đọc file của mảng đang làm. Code mẫu nằm trong [`templates/`](templates/), lệnh kiểm nhanh
 trong [`scripts/quick-check.sh`](scripts/quick-check.sh).

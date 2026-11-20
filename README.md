@@ -6,11 +6,11 @@ Claude hay các AI agent khác, để khoá không bị lộ, dữ liệu khách
 
 | Mảng | Nội dung |
 |---|---|
-| 🤖 **Làm việc với AI** | Khoá không đi qua chat · không in khoá ra màn hình · xử lý khi lỡ dán khoá · quyền hẹp cho agent · nội dung bên ngoài là dữ liệu, không phải lệnh |
-| 🔑 **Khoá & mã nguồn** | Bảng nạp khoá · GitHub device flow · gitleaks + pre-commit · quét secret trên GitHub · kho khoá Windows/macOS · lộ khoá thì làm gì |
-| 🚀 **Deploy** | Hai cổng kiểm · tách code/data · an toàn token deploy · VPS SSH/ufw · HTTPS + security headers · đóng database · backup |
-| 🛒 **Sản phẩm** | Webhook thanh toán verify chữ ký · giá tính ở server · chặn IDOR · cookie phiên · lọc HTML · upload ảnh an toàn · rate limit · dữ liệu khách |
-| ✅ **Cổng launch** | 30 mốc, mỗi mốc có lệnh chứng minh, báo cáo 3 phần |
+| **Làm việc với AI** | Khoá không đi qua chat · không in khoá ra màn hình · xử lý khi lỡ dán khoá · quyền hẹp cho agent · nội dung bên ngoài là dữ liệu, không phải lệnh |
+| **Khoá & mã nguồn** | Bảng nạp khoá · GitHub device flow · gitleaks + pre-commit · quét secret trên GitHub · kho khoá Windows/macOS · lộ khoá thì làm gì |
+| **Deploy** | Hai cổng kiểm · tách code/data · an toàn token deploy · VPS SSH/ufw · HTTPS + security headers · đóng database · backup |
+| **Sản phẩm** | Webhook thanh toán verify chữ ký · giá tính ở server · chặn IDOR · cookie phiên · lọc HTML · upload ảnh an toàn · rate limit · dữ liệu khách |
+| **Cổng launch** | 30 mốc, mỗi mốc có lệnh chứng minh, báo cáo 3 phần |
 
 ## Cấu trúc
 
