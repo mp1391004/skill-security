@@ -1,0 +1,25 @@
+# --- khoa & secret (skill-security) ---
+.env
+.env.*
+!.env.example
+.envrc
+.envrc.local
+.direnv/
+*.pem
+*.key
+*.p12
+.secrets/
+
+# --- du lieu, khong nam trong thu muc code ---
+uploads/
+public/uploads/
+*.db
+*.sqlite
+backup/
+temp/
+
+# --- build & thu vien ---
+node_modules/
+.next/
+dist/
+__pycache__/

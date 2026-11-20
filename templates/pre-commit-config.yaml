@@ -1,0 +1,6 @@
+# Dat ten file thanh .pre-commit-config.yaml o goc repo, roi chay: pre-commit install
+repos:
+  - repo: https://github.com/gitleaks/gitleaks
+    rev: v8.28.0
+    hooks:
+      - id: gitleaks
